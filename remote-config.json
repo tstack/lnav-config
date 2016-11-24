@@ -2,6 +2,7 @@
     "format-repos" : [
         "https://github.com/hagfelsh/lnav_formats.git",
         "https://github.com/PaulWay/lnav-formats.git",
-        "https://github.com/penntaylor/lnav-ruby-logger-format.git"
+        "https://github.com/penntaylor/lnav-ruby-logger-format.git",
+        "https://github.com/aspiers/lnav-formats.git"
     ]
 }
